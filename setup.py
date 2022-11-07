@@ -1,3 +1,7 @@
+# -*- coding: utf-8 -*-
+# @Organization  : TMT
+# @Author        : Cuong Tran
+# @Time          : 11/7/2022
 
 
 import os
@@ -14,7 +18,7 @@ setup(
     description="My utils for AI",
     long_description="For my self",
     long_description_content_type="text/markdown",
-    url="https://github.com/mwpnava/Python-Code/tree/master/My_own_Python_package",
+    url="https://github.com/cuongdtone/ppprocess",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
